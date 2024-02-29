@@ -3,8 +3,8 @@
     "data": [
       {
         "name": "阿神",
-        "status": "白名單",     // 單選 白名單||黑名單||未合做...
-        "method": "發票",      // 單選 發票 || 勞報單
+        "status": "白名單",
+        "method": "發票",
         "ta": "http://粉絲輪廓雲端連結",
         "platforms": [
           {
@@ -13,7 +13,6 @@
             "link": "https://www.youtube.com/channel/UCnJEWsS5agXCkqIpyHC9Grg",
             "info": {
               "follower": 3000000,
-              ...其他頻道訊息
             },
             "price": [
               {
@@ -38,7 +37,6 @@
             "link": "https://www.instagram.com/ookoukioo/",
             "info": {
               "follower": 153000,
-              ...其他頻道訊息
             },
             "price": [
               {
@@ -67,17 +65,5 @@
     "pageInfo": {
       ...分頁資訊
     }
-  },
-  "platform": [
-    {
-      "id": 0,
-      "name": "YouTube",
-      "category": ["YouTube長影片","YouTube短影片"]
-    },
-    {
-      "id": 1,
-      "name": "Facebook",
-      "category": ["Facebook貼文","Facebook影片"]
-    }
-  ]
+  }
 }
