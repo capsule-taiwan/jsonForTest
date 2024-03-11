@@ -3,11 +3,13 @@
     "data": [
       {
         "id": 1,
-        "platform_type": "youtube",
-        "name": "阿神",
         "nick_name": "阿神YT主頻道",
-        "link": "https://www.youtube.com/channel/UCnJEWsS5agXCkqIpyHC9Grg",
-        "follower": 3000000,
+        "account": {
+          "platform_type": "youtube",
+          "name": "阿神",
+          "link": "https://www.youtube.com/channel/UCnJEWsS5agXCkqIpyHC9Grg",
+          "follower": 3000000
+        },
         "status": "白名單",
         "method": "發票",
         "ta": "http://粉絲輪廓雲端連結",
@@ -35,11 +37,13 @@
       },
       {
         "id": 2,
-        "platform_type": "instagram",
-        "name": "ookoukioo",
         "nick_name": "阿神IG",
-        "link": "https://www.instagram.com/ookoukioo",
-        "follower": 155000,
+        "account": {
+          "platform_type": "instagram",
+          "name": "ookoukioo",
+          "link": "https://www.instagram.com/ookoukioo",
+          "follower": 155000
+        },
         "status": "白名單",
         "method": "發票",
         "ta": "http://粉絲輪廓雲端連結",
@@ -66,11 +70,13 @@
       },
       {
         "id": 3,
-        "platform_type": "facebook",
-        "name": "KamiKami Matsu",
         "nick_name": "阿神FB",
-        "link": "https://www.facebook.com/KamiKamiMatsu/",
-        "follower": 155000,
+        "account": {
+          "platform_type": "facebook",
+          "name": "KamiKami Matsu",
+          "link": "https://www.facebook.com/KamiKamiMatsu/",
+          "follower": 155000
+        },
         "status": "白名單",
         "method": "發票",
         "ta": "http://粉絲輪廓雲端連結",
