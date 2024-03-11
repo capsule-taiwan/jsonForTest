@@ -1,90 +1,94 @@
 {
   "creator": {
-      "data": [
-    {
-      "id": 1,
-      "platform_type": "youtube",
-      "name": "阿神",
-      "nick_name": "阿神YT主頻道",
-      "link": "https://www.youtube.com/channel/UCnJEWsS5agXCkqIpyHC9Grg",
-      "follower": 3000000,
-      "status": "白名單",
-      "method": "發票",
-      "ta": "http://粉絲輪廓雲端連結",
-      "price": [
-        {
-          "platform_type": "youtube",
-          "type": "YT長影片",
-          "amount": 20000,
-          "update_time": "2024-03-07 08:58:02.219875+00"
-        },
-        {
-          "platform_type": "youtube",
-          "type": "YT短影片",
-          "amount": 2000,
-          "update_time": "2024-03-07 08:58:02.219875+00"
-        }
-      ],
-      "currency": "NTD",
-      "memo": "",
-      "tags": [
-        "遊戲"
-      ]
-    },
-    {
-      "id": 2,
-      "platform_type": "instagram",
-      "name": "ookoukioo",
-      "nick_name": "阿神IG",
-      "link": "https://www.instagram.com/ookoukioo",
-      "follower": 155000,
-      "status": "白名單",
-      "method": "發票",
-      "ta": "http://粉絲輪廓雲端連結",
-      "price": [
-        {
-          "platform_type": "instagram",
-          "type": "IG reels",
-          "amount": 20000,
-          "update_time": "2024-03-07 08:58:02.219875+00"
-        },
-        {
-          "platform_type": "instagram",
-          "type": "IG 現實動態",
-          "amount": 2000,
-          "update_time": "2024-03-07 08:58:02.219875+00"
-        }
-      ],
-      "memo": "",
-      "tags": [
-        "生活"
-      ]
-    },
-    {
-      "id": 3,
-      "platform_type": "facebook",
-      "name": "KamiKami Matsu",
-      "nick_name": "阿神FB",
-      "link": "https://www.facebook.com/KamiKamiMatsu/",
-      "follower": 155000,
-      "status": "白名單",
-      "method": "發票",
-      "ta": "http://粉絲輪廓雲端連結",
-      "price": [
-        {
-          "platform_type": "facebook",
-          "type": "粉專貼文",
-          "amount": 200,
-          "update_time": "2024-03-07 08:58:02.219875+00"
-        }
-      ],
-      "memo": "",
-      "tags": [
-        "遊戲",
-        "生活"
-      ]
-    }
-  ]
-
+    "data": [
+      {
+        "id": 1,
+        "platform_type": "youtube",
+        "name": "阿神",
+        "nick_name": "阿神YT主頻道",
+        "link": "https://www.youtube.com/channel/UCnJEWsS5agXCkqIpyHC9Grg",
+        "follower": 3000000,
+        "status": "白名單",
+        "method": "發票",
+        "ta": "http://粉絲輪廓雲端連結",
+        "price": [
+          {
+            "platform_type": "youtube",
+            "type": "YT長影片",
+            "amount": 20000,
+            "update_time": "2024-03-07 08:58:02.219875+00",
+            "executable": true
+          },
+          {
+            "platform_type": "youtube",
+            "type": "YT短影片",
+            "amount": 2000,
+            "update_time": "2024-03-07 08:58:02.219875+00",
+            "executable": true
+          }
+        ],
+        "currency": "NTD",
+        "memo": "",
+        "tags": [
+          "遊戲"
+        ]
+      },
+      {
+        "id": 2,
+        "platform_type": "instagram",
+        "name": "ookoukioo",
+        "nick_name": "阿神IG",
+        "link": "https://www.instagram.com/ookoukioo",
+        "follower": 155000,
+        "status": "白名單",
+        "method": "發票",
+        "ta": "http://粉絲輪廓雲端連結",
+        "price": [
+          {
+            "platform_type": "instagram",
+            "type": "IG reels",
+            "amount": 20000,
+            "update_time": "2024-03-07 08:58:02.219875+00",
+            "executable": true
+          },
+          {
+            "platform_type": "instagram",
+            "type": "IG 現實動態",
+            "amount": null,
+            "update_time": "2024-03-07 08:58:02.219875+00",
+            "executable": false
+          }
+        ],
+        "memo": "",
+        "tags": [
+          "生活"
+        ]
+      },
+      {
+        "id": 3,
+        "platform_type": "facebook",
+        "name": "KamiKami Matsu",
+        "nick_name": "阿神FB",
+        "link": "https://www.facebook.com/KamiKamiMatsu/",
+        "follower": 155000,
+        "status": "白名單",
+        "method": "發票",
+        "ta": "http://粉絲輪廓雲端連結",
+        "price": [
+          {
+            "platform_type": "facebook",
+            "type": "粉專貼文",
+            "amount": 200,
+            "update_time": "2024-03-07 08:58:02.219875+00",
+            "executable": true
+          }
+        ],
+        "memo": "",
+        "tags": [
+          "遊戲",
+          "生活"
+        ]
+      }
+    ]
   }
 }
